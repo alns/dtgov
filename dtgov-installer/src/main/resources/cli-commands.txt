@@ -1,3 +1,0 @@
-connect http://localhost:8080/s-ramp-server
-ontology:upload dtgov-data/deployment-status.owl
-ontology:upload dtgov-data/project-review-status.owl
