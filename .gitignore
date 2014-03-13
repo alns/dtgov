@@ -1,14 +1,4 @@
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
-.settings
-.project
-target
-.classpath
-.metadata
-.errai
-rebel.xml
-.gwt
+/.project
+/target
+/.classpath
+/.settings
