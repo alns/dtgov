@@ -158,6 +158,10 @@ body {
   color: #999;
 }
 
+.release-date {
+  font-size: 13px;
+  padding-top: 5px;
+}
 
 @media ( min-width : 768px) {
   .nav-justified {
