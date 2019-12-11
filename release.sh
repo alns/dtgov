@@ -1,7 +1,7 @@
 #!/bin/sh
 echo ""
 echo "##############################################"
-echo "  Releasing Design Time Governance (Community)"
+echo "  Now Releasing Design Time Governance (Community)"
 echo "##############################################"
 echo ""
 read -p "Release Version: " RELEASE_VERSION
